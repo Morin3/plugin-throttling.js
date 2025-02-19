@@ -29,8 +29,8 @@
     "@octokit/core": "^6.0.0"
   },
   "devDependencies": {
-    "@octokit/core": "^6.0.0",
-    "@octokit/request-error": "^6.0.1",
+    "@octokit/core": "^6.1.4",
+    "@octokit/request-error": "^6.1.7",
     "@octokit/tsconfig": "^3.0.0",
     "@types/node": "^20.0.0",
     "@vitest/coverage-v8": "^2.0.2",
